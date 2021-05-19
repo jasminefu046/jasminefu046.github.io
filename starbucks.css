@@ -18,7 +18,7 @@
   .custom-navbar .nav li a {
     font-size: 18px;
     font-weight: normal;
-    color: #ffffff;
+    color: #51BA67;
     letter-spacing: 1px;
     -webkit-transition: all ease-in-out 0.4s;
     transition: all ease-in-out 0.4s;
@@ -79,64 +79,5 @@
         box-shadow:0 40px 100px rgba(0,0,0,.2);
         padding: 10px 0;
       }
-  
-  }
-  
-  
-  /*---------------------------------------
-  Mobile Responsive styles              
------------------------------------------*/
-
-@media (min-width: 768px) and (max-width: 1024px) {
-    #home {
-      height: 50vh;
-    }
-  }
-  
-  @media (min-width: 667px) and (max-width: 767px) {
-    #home {
-      height: 140vh;
-    }
-  }
-  
-  @media (min-width: 568px) and (max-width: 665px) {
-    #home {
-      height: 190vh;
-    }
-  }
-  
-  @media (max-width: 980px) {
-  
-   h1 {font-size: 33px;}
-  
-   #work .work-thumb {
-    margin-top: 30px;
-   }
-  
-  }
-  @media (max-width: 768px) {
-
-    h1 {
-      font-size: 30px;
-      line-height: normal;
-    }
-  
-    h2  {font-size: 30px;}
-  
-    .custom-navbar {
-      background-color: #ffffff;
-      box-shadow:0 40px 100px rgba(0,0,0,.2);
-      padding-top: 0px;
-      padding-bottom: 5px;
-    }
-  
-    .custom-navbar .nav {
-      padding-bottom: 10px;
-    }
-  
-    .custom-navbar .nav li a {
-      display: inline-block;
-      margin-bottom: 5px;
-    }
   
   }
