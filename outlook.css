@@ -82,24 +82,19 @@
 }
 
 #work {
-    padding-left:10%;
-    padding-right:10%;
+    padding-left:5%;
+    padding-right:5%;
 }
-
 #work2{
-    padding-left: 10%;
-    padding-right:10%;
+    padding-left: 5%;
+    padding-right:5%;
 }
 #container{
-    padding-left: 10%;
-    padding-right:10%;
+    padding-left: 5%;
+    padding-right:5%;
     background-color: #FCF8F8;
 }
-@media (max-width: 357px) {
-    #work {
-        width: 100%;
-      }
-  }
+
 
 
   
