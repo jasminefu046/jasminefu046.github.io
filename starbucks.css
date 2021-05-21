@@ -69,15 +69,8 @@
     border-color: transparent;
   }
   
-  @media(min-width:768px) {
-      .custom-navbar {
-        border-bottom: 0;
-        background: 0 0; 
-      }
-      .custom-navbar.top-nav-collapse {
-        background: #ffffff;
-        box-shadow:0 40px 100px rgba(0,0,0,.2);
-        padding: 10px 0;
-      }
-  
+@media (min-width: 568px) and (max-width: 665px) {
+  #work {
+      width: 600px;
+    }
   }
