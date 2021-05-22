@@ -67,6 +67,9 @@
     background: #000000;
     border-color: transparent;
 }
+.custom-navbar{
+    background-color:transparent;
+  }
   
 @media(min-width:768px) {
     .custom-navbar {
