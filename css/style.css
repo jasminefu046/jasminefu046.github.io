@@ -252,7 +252,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .navbar-nav li a:hover:after,
 .custom-navbar .nav li.active > a:after {
   background: #e47878;
-  color: #ffffff;
+  color: #e47878;
   width: 100%;
 }
 
@@ -312,7 +312,7 @@ a:hover, a:active, a:focus {
 
 #home img {
   width: 150px;
-  height: 150px;
+  height: 10px;
 }
 
 

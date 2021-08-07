@@ -28,7 +28,7 @@
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
     background-color: transparent;
-    color: #ffffff;
+    color: #6D7175;
 }
   
 .custom-navbar .navbar-nav li a:after {
@@ -44,8 +44,8 @@
   
 .custom-navbar .navbar-nav li a:hover:after,
 .custom-navbar .nav li.active > a:after {
-    background: #ffffff;
-    color: #ffffff;
+    background: #6D7175;
+    color: #6D7175;
     width: 100%;
 }
   

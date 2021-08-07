@@ -18,7 +18,7 @@
   .custom-navbar .nav li a {
     font-size: 18px;
     font-weight: normal;
-    color: #ffffff;
+    color: #FFC96B;
     letter-spacing: 1px;
     -webkit-transition: all ease-in-out 0.4s;
     transition: all ease-in-out 0.4s;
@@ -29,7 +29,7 @@
   .custom-navbar .navbar-nav > li > a:hover,
   .custom-navbar .navbar-nav > li > a:focus {
     background-color: transparent;
-    color: #FFC96B;
+    color: #6D7175;
   }
   
   .custom-navbar .navbar-nav li a:after {
@@ -45,8 +45,8 @@
   
   .custom-navbar .navbar-nav li a:hover:after,
   .custom-navbar .nav li.active > a:after {
-    background: #FFC96B;
-    color: #ffffff;
+    background: #6D7175;
+    color: #6D7175;
     width: 100%;
   }
   
